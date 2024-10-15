@@ -51,8 +51,7 @@
 
 <p align="left">• Python<br>• Machine Learning</p>
 
-###
-
-<img src="https://raw.githubusercontent.com/CoelhoTiago/CoelhoTiago/output/snake.svg" alt="Snake animation" />
-
+<p align="left">_____________________________________________________________________________________________</p>
+<p align="left">Passionate about programming, technology and contributing to the lives of others. 👨‍💻</p>
+<p align="left">_____________________________________________________________________________________________</p>
 ###
