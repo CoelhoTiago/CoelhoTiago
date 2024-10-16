@@ -41,15 +41,15 @@
 
 ###
 
-<p align="left">• Excel for Data Analisys<br>• Power BI<br>• SQL</p>
+<h2 align="left">✔️ Excel for Data Analisys<br>✔️ Power BI<br>✔️ SQL</h2>
 
 ###
 
-<h2 align="left">✔️ I'm currently learning</h2>
+<h2 align="left">📝 I'm currently learning</h2>
 
 ###
 
-<p align="left">• Python<br>• Machine Learning</p>
+<h2 align="left">• Python<br>• Machine Learning</h2>
 
 <p align="left">_____________________________________________________________________________________________</p>
 <p align="left">Passionate about programming, technology and contributing to the lives of others. 👨‍💻</p>
